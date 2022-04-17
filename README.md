@@ -15,6 +15,18 @@ I'm an IT swiss army knife working in computer engineering for over 20 years ⏳
 </a>
 <img src="https://komarev.com/ghpvc/?username=arnaud-coral&&style=for-the-badge" alt="profile-views" style="margin-bottom: 5px;" />
 </div>
+
+<br />
+<br />
+
+<div align="center">
+
+*There are only two hard things in Computer Science: cache invalidation and naming things.
+<br />
+-- Phil Karlton --*
+
+</div>
+
 <br />
 <br />
 
@@ -24,6 +36,7 @@ I'm an IT swiss army knife working in computer engineering for over 20 years ⏳
 🌱 I’m currently learning Flutter and Dart to improve my frontend skills.<br />
 ❓ Ask me about anything related to DevOps or backend development.<br>
 ⚡ I love to travel 🌍, and love cooking 👨‍🍳.
+
 <br />
 <br />
 
@@ -36,6 +49,7 @@ I'm an IT swiss army knife working in computer engineering for over 20 years ⏳
 
 </div>
 
+<br />
 <br />
 
 # **💡 Skill Set**
@@ -81,6 +95,7 @@ I'm an IT swiss army knife working in computer engineering for over 20 years ⏳
 # **<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="40" width="40" align="absmiddle"> Stats**
 
 <br />
+<br />
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaud-coral&hide_border=true&layout=compact" align="center" width="400px" />
@@ -89,3 +104,6 @@ I'm an IT swiss army knife working in computer engineering for over 20 years ⏳
 <img src="https://github-readme-stats.vercel.app/api?username=arnaud-coral" align="center" width="400px" />
 
 </div>
+
+<br />
+<br />

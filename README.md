@@ -1,7 +1,10 @@
 
 
 # <div align="center">👋 **Hi there! I'm Arnaud**</div>
-## <div align="center"> I'm an IT swiss army knife working in computer engineering since 2002 ⏳</div>
+<div align="center">
+I'm an IT swiss army knife working in computer engineering for over 20 years ⏳<br />
+<img src="https://arnaudcoral.fr/knife.png" width="100" />
+</div>
 <br />
 <div align="center">
 <a href="https://github.com/arnaud-coral" target="_blank">
@@ -15,17 +18,27 @@
 <br />
 <br />
 
-## **🙋‍♂️ About me**
+# **🙋‍♂️ About me**
 
 <br />
-🌱 I’m currently learning Flutter and Dart to improve my frontend skills.<br>
+🌱 I’m currently learning Flutter and Dart to improve my frontend skills.<br />
 ❓ Ask me about anything related to DevOps or backend development.<br>
-⚡ I love to travel 🌍, and love cooking 🧑‍🍳.
-
+⚡ I love to travel 🌍, and love cooking 👨‍🍳.
 <br />
 <br />
 
-## **💡 My Skill Set**
+# **🎵 My Music**
+
+<br />
+<div>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=arco51&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+<br />
+
+# **💡 Skill Set**
 
 <br />
 
@@ -56,7 +69,7 @@
 <br />
 <br />
 
-## **❓ Misc**
+## **🚽 Misc**
 <br />
 <div>
 <img src="https://skillicons.dev/icons?i=vscode,regex,wordpress,ps,raspberrypi,figma&perline=6" />
@@ -65,19 +78,14 @@
 <br />
 <br />
 
-## <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="30" width="30" align="absmiddle"> Stats
----
+# **<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="40" width="40" align="absmiddle"> Stats**
+
 <br />
 
-<div align="center">
+<div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaud-coral&hide_border=true&layout=compact" align="center" width="400px" />
 <br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=arnaud-coral" align="center" width="400px" />
-
-<br />
-<br />
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=arco51&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>

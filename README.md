@@ -1,6 +1,3 @@
-
-
-# <div align="center">👋 **Hi there! I'm Arnaud**</div>
 <div align="center">
     <div align="center">
         <div>
@@ -36,28 +33,6 @@
 <br />
 <br />
 
-# **🙋‍♂️ About me**
-
-<br />
-🌱 I’m currently learning Flutter and Dart to improve my frontend skills.<br />
-❓ Ask me about anything related to DevOps or backend development.<br>
-⚡ I love to travel 🌍, and love cooking 👨‍🍳.
-
-<br />
-<br />
-
-# **🎵 My Music**
-
-<br />
-<div>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=arco51&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-<br />
-<br />
-
 # **💡 Skill Set**
 
 <br />
@@ -65,7 +40,7 @@
 ## **🎨 Frontend**
 <br />
 <div>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,flutter,dart,angular,javascript,typescript&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,typescript&perline=6" />
 </div>
 
 <br />
@@ -74,7 +49,7 @@
 ## **🧩 Backend**
 <br />
 <div>
-<img src="https://skillicons.dev/icons?i=php,nodejs,deno,express,pug,lua,python,graphql,mysql,postgres,mongodb,redis&perline=6" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,deno,babel,express,pug,lua,python,graphql,mysql,postgres,mongodb,redis&perline=6" />
 </div>
 
 <br />
@@ -83,7 +58,7 @@
 ## **🔧 DevOps**
 <br />
 <div>
-<img src="https://skillicons.dev/icons?i=aws,gcp,ansible,bash,linux,docker,gitlab,github,git,nginx,grafana,prometheus&perline=6" />
+<img src="https://skillicons.dev/icons?i=aws,ansible,bash,linux,docker,gitlab,github,git,nginx&perline=6" />
 </div>
 
 <br />
@@ -106,15 +81,7 @@
 <div align="center">
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaud-coral&hide_border=true&layout=compact" align="center" width="400px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=arnaud-coral" align="center" width="400px" />
   </div>
 </div>
 
-<br />
-
-<div align="center">
-    <a href="https://app.daily.dev/Arnaud13016"><img src="https://github.com/arnaud-coral/arnaud-coral/blob/master/devcard.svg" width="200" alt="Arnaud's Dev Card"/></a>
-</div>
-
-<br />
 <br />

@@ -69,19 +69,3 @@
 <div>
 <img src="https://skillicons.dev/icons?i=vscode,regex,wordpress,ps,raspberrypi,figma&perline=6" />
 </div>
-
-<br />
-<br />
-
-# **<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="40" width="40" align="absmiddle"> Stats**
-
-<br />
-<br />
-
-<div align="center">
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaud-coral&hide_border=true&layout=compact" align="center" width="400px" />
-  </div>
-</div>
-
-<br />

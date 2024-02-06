@@ -48,7 +48,7 @@
 ## **🧩 Backend**
 <br />
 <div>
-<img src="https://skillicons.dev/icons?i=php,nodejs,deno,babel,express,pug,lua,python,graphql,mysql,postgres,mongodb,redis&perline=6" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,jest,babel,express,pug,python,graphql,mysql,postgres,mongodb,redis,firebase&perline=6" />
 </div>
 
 <br />
@@ -57,7 +57,7 @@
 ## **🔧 DevOps**
 <br />
 <div>
-<img src="https://skillicons.dev/icons?i=aws,ansible,bash,linux,docker,gitlab,github,git,nginx&perline=6" />
+<img src="https://skillicons.dev/icons?i=aws,ansible,terraform,bash,linux,docker,gitlab,github,git,nginx,grafana,prometheus,rabbitmq&perline=6" />
 </div>
 
 <br />
@@ -66,5 +66,5 @@
 ## **🚽 Misc**
 <br />
 <div>
-<img src="https://skillicons.dev/icons?i=vscode,regex,wordpress,ps,raspberrypi,figma&perline=6" />
+<img src="https://skillicons.dev/icons?i=vscode,regex,wordpress,ps,raspberrypi,figma,postman&perline=6" />
 </div>

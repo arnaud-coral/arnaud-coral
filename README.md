@@ -2,6 +2,7 @@
     <div align="center">
         <div>
             I'm an IT swiss army knife working in computer engineering for over 20 years ⏳<br />
+            <img src="https://arnaudcoral.fr/swiss-army-knife.png" width="100" />
         </div>
     </div>
 </div>

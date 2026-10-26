@@ -10,7 +10,8 @@ I help small businesses go digital - from scoping to production.<br />
 20+ years turning complex problems into clean, shipped solutions.
 
 <a href="https://linkedin.com/in/arnaud-coral" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
-<a href="https://github.com/arnaud-coral" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="https://github.com/arnaud-coral" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>&nbsp;
+<a href="https://github.com/vercel/next.js/pulls?q=is%3Apr+is%3Amerged+author%3Aarnaud-coral" target="_blank"><img src="https://img.shields.io/badge/next.js_contributor-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js contributor" /></a>
 
 </div>
 
@@ -53,10 +54,19 @@ Most of my clients are non-technical business owners who need a trusted partner,
 
 ---
 
+### Open Source
+
+▲ **Next.js** - Contributor to the official [vercel/next.js](https://github.com/vercel/next.js) repo. Tracked down and fixed a bug where the HTML response never finished when a failing `'use cache'` function was also read by `generateMetadata` under Partial Prefetching - [issue #100666](https://github.com/vercel/next.js/issues/100666), [PR #100673](https://github.com/vercel/next.js/pull/100673) (merged).
+
+🏦 **Dolibarr × Qonto** - Contributor to [dolibarr-qonto-api](https://github.com/apio-sys/dolibarr-qonto-api), an open-source Dolibarr module that reconciles a Qonto bank account through its API. Contributed two security fixes: the Qonto secret key no longer appears in bank account lists, and every AJAX endpoint now enforces access control - [PR #11](https://github.com/apio-sys/dolibarr-qonto-api/pull/11), [PR #13](https://github.com/apio-sys/dolibarr-qonto-api/pull/13) (merged).
+
+---
+
 ### Core Stack
 
 #### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" title="React" alt="React" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" title="Next.js" alt="Next.js" />&nbsp;
 <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" title="TypeScript" alt="TypeScript" />&nbsp;
 <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" title="JavaScript" alt="JavaScript" />&nbsp;
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;

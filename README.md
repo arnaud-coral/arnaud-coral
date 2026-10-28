@@ -58,7 +58,7 @@ Most of my clients are non-technical business owners who need a trusted partner,
 
 ▲ **Next.js** - Contributor to the official [vercel/next.js](https://github.com/vercel/next.js) repo. Tracked down and fixed a bug where the HTML response never finished when a failing `'use cache'` function was also read by `generateMetadata` under Partial Prefetching - [issue #100666](https://github.com/vercel/next.js/issues/100666), [PR #100673](https://github.com/vercel/next.js/pull/100673) (merged).
 
-🏦 **Dolibarr × Qonto** - Contributor to [dolibarr-qonto-api](https://github.com/apio-sys/dolibarr-qonto-api), an open-source Dolibarr module that reconciles a Qonto bank account through its API. Contributed two security fixes: the Qonto secret key no longer appears in bank account lists, and every AJAX endpoint now enforces access control - [PR #11](https://github.com/apio-sys/dolibarr-qonto-api/pull/11), [PR #13](https://github.com/apio-sys/dolibarr-qonto-api/pull/13) (merged).
+🏦 **Dolibarr × Qonto** - Contributor to [dolibarr-qonto-api](https://github.com/apio-sys/dolibarr-qonto-api), an open-source Dolibarr module that reconciles a Qonto bank account through its API. Contributed three security fixes: the Qonto secret key no longer appears in bank account lists, every AJAX endpoint now enforces access control, and the attachment endpoint no longer sends the decrypted API key to the browser - [PR #11](https://github.com/apio-sys/dolibarr-qonto-api/pull/11), [PR #13](https://github.com/apio-sys/dolibarr-qonto-api/pull/13), [PR #32](https://github.com/apio-sys/dolibarr-qonto-api/pull/32) (merged).
 
 ---
 

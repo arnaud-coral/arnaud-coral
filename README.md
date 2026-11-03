@@ -11,7 +11,7 @@ I help small businesses go digital - from scoping to production.<br />
 
 <a href="https://linkedin.com/in/arnaud-coral" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;
 <a href="https://github.com/arnaud-coral" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>&nbsp;
-<a href="https://github.com/vercel/next.js/pulls?q=is%3Apr+is%3Amerged+author%3Aarnaud-coral" target="_blank"><img src="https://img.shields.io/badge/next.js_contributor-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js contributor" /></a>
+<a href="https://github.com/vercel/next.js/pulls?q=is%3Apr+involves%3Aarnaud-coral" target="_blank"><img src="https://img.shields.io/badge/next.js_contributor-%23000000.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js contributor" /></a>
 
 </div>
 

@@ -56,7 +56,7 @@ Most of my clients are non-technical business owners who need a trusted partner,
 
 ### Open Source
 
-▲ **Next.js** - Contributor to the official [vercel/next.js](https://github.com/vercel/next.js) repo. Tracked down and fixed a bug where the HTML response never finished when a failing `'use cache'` function was also read by `generateMetadata` under Partial Prefetching - [issue #100666](https://github.com/vercel/next.js/issues/100666), [PR #100673](https://github.com/vercel/next.js/pull/100673) (merged). See [my activity on the project](https://github.com/vercel/next.js/pulls?q=is%3Apr+involves%3Aarnaud-coral).
+▲ **Next.js** - Contributor to the official [vercel/next.js](https://github.com/vercel/next.js) repo. Tracked down and fixed a bug where the HTML response never finished when a failing `'use cache'` function was also read by `generateMetadata` under Partial Prefetching - [issue #100666](https://github.com/vercel/next.js/issues/100666), [PR #100673](https://github.com/vercel/next.js/pull/100673) (merged). Also co-authored the fix for blocking revalidation with `fetch` and `unstable_cache` - [issue #99866](https://github.com/vercel/next.js/issues/99866), [PR #101077](https://github.com/vercel/next.js/pull/101077) (merged). See [my activity on the project](https://github.com/vercel/next.js/pulls?q=is%3Apr+involves%3Aarnaud-coral).
 
 🏦 **Dolibarr × Qonto** - Contributor to [dolibarr-qonto-api](https://github.com/apio-sys/dolibarr-qonto-api), an open-source Dolibarr module that reconciles a Qonto bank account through its API - see [my merged PRs](https://github.com/apio-sys/dolibarr-qonto-api/pulls?q=is%3Apr+is%3Amerged+author%3Aarnaud-coral).
 
